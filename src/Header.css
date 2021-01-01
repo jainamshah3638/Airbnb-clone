@@ -1,0 +1,46 @@
+.logo{
+   width: 200px;
+    height: 100px;
+    object-fit: contain;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-transform: capitalize;
+    position: sticky;
+    z-index: 1;
+}
+
+.header_left{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    
+}
+.header_center{
+    display: flex;
+    align-items: center;
+    border: 2px solid lightgray;
+    border-radius: 25px;
+    height: 50px;
+    
+    
+}
+.search{
+    border: none;
+    width: 250px;
+   
+   
+    outline-width: 0;
+}
+.header_right{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   width: 229px;
+   margin-right: 10px;
+     
+}

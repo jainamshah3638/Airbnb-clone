@@ -1,0 +1,52 @@
+[
+    {   "id":"132",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_wbPYTxQPMcBh7SPzLFActXnP3uhifeVT_g&usqp=CAU",
+        "location":"Private room in center of London",
+        "title":"Stay at this spacious Edwardian House",
+        "description":"Regency Suite King with Two-way airport transfers – ... Private suite • 1 bedroom • 1 living room ",
+        "star":"4.73",
+        "price":"Rs 2500 / night",
+        "total":"Rs 3000 total"
+    },
+    {
+        "id":"133",
+        "img":"https://images.unsplash.com/photo-1571896349842-33c89424de2d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEwfHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "location":"Private room in center of London",
+        "title":"Independant luxury studio apartment",
+        "description":"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star":"4.6",
+        "price":"Rs 900 / night",
+        "total":"Rs 1300 total"
+    },
+    {
+        "id":"134",
+        "img":"https://images.unsplash.com/photo-1559293831-8a81f3bfc36c?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8&auto=format&fit=crop&w=400&q=60",
+        "location":"Private room in center of London",
+        "title":"Stay at this spacious Edwardian House",
+        "description":"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star":"4.3",
+        "price":"Rs 1200 / night",
+        "total":"Rs 2000 total"
+    },
+    {
+        "id":"135",
+        "img":"https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDV8fHxlbnwwfHx8&auto=format&fit=crop&w=400&q=60",
+        "location":"Private room in center of London",
+        "title":"Stay at this spacious Edwardian House",
+        "description":"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star":"4.0",
+        "price":"Rs 1000 / night",
+        "total":"Rs 1800 total"
+    },
+    {
+        "id":"136",
+        "img":"https://images.unsplash.com/photo-1503003378590-66f89f543bc6?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8&auto=format&fit=crop&w=400&q=60",
+        "location":"Private room in center of London",
+        "title":"Stay at this spacious Edwardian House",
+        "description":"1 guest · 1 bedroom · 1 bed · 1.5 shared bthrooms · Wifi · Kitchen · Free parking · Washing Machine",
+        "star":"3.7",
+        "price":"Rs 800 / night",
+        "total":" Rs 1500 total"
+    }
+    
+]

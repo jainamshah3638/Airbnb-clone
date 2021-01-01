@@ -1,0 +1,17 @@
+.searchPage_info > h1{
+   padding: 20px;
+}
+.btn-group{
+ display: flex;
+ justify-content: space-between;
+max-width: 800px;
+flex-wrap:wrap;
+}
+
+.btn-group > button {
+    border-radius: 30px;
+}
+.searchComponent{
+    display: flex;
+    flex-direction: column;
+}
